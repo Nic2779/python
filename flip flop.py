@@ -1,6 +1,6 @@
 def palind(r):
 
-e = len(r) -1
+e = len(r) -1 
 
 s = 0
 
