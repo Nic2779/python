@@ -9,6 +9,7 @@ print("I will generate a number from 10 to 20, and you have to guess the number 
 print("The game ends when you get 1 hero!")
 
 while playing:
+    
 
 guess = input("Give me your best guess! \n")
 
@@ -23,3 +24,4 @@ break
 else:
 
 print("Your guess isn't quite right, try again.\n")
+  
